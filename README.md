@@ -1,5 +1,5 @@
 
-# healthy-or-unhealthy-food
+# healthy-or-unhealthy-food-cnn
 
 This project focuses on distinguishing a images of food items using CNN's. Predicting the healthy or unhealthy food is done by android app. It will soon be integrated as front end along with the project.  
 
