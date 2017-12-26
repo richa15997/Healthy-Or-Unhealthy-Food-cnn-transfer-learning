@@ -1,3 +1,4 @@
+
 # healthy-or-unhealthy-food
 
 This project focuses on distinguishing a images of food items using CNN's. Predicting the healthy or unhealthy food is done by android app. It will soon be integrated as front end along with the project.  
@@ -22,6 +23,8 @@ Keras library implemented with numpy and open-cv.
 
 
 # Details
+
+Divide your dataset folder into two parts training and test folder. Each training and test folder should contain the folders with names of food-items, which then contain the images of the food.
 
 Part 1 consists of training the model without using Transfer Learning(Bottleneck features) with training accuracy of 77% and test accuracy of 82%.
 Part 2 consists of using Transfer Learning with training accuracy of 92% ad test accuracy of 87%.
