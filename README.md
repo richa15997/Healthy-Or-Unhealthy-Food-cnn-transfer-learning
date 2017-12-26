@@ -1,4 +1,3 @@
-
 # healthy-or-unhealthy-food-cnn
 
 This project focuses on distinguishing a images of food items using CNN's. Predicting the healthy or unhealthy food is done by android app. It will soon be integrated as front end along with the project.  
@@ -15,6 +14,8 @@ Details about the network architecture can be found in the following arXiv paper
             arXiv:1409.1556
             
 Please cite the paper if you use the models.
+
+Weights are available for keras 3 as 'vgg16_weights_tf_dim_ordering_tf_kernels'
 
 # Libraries
 
